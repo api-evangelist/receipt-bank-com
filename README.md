@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dext is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://www.receipt-bank.com/
+Dext, formerly Receipt Bank, provides bookkeeping automation software for businesses and accountants. Their platform captures receipts, manages expenses, integrates with accounting systems, and offers AI‑assisted bookkeeping features. Serving sectors like construction, professional services, hospitality, and retail, Dext helps automate data entry, improve client data health, and streamline financial workflows across multi‑entity businesses.
+
+**Areas:** Company · Bookkeeping · Automation · Accounting · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.receipt-bank.com/)
+- [Documentation](https://help.dext.com/)
+- [Getting started](https://help.dext.com/en/articles/416705-getting-started-with-dext-for-businesses)
+- [Pricing](https://dext.com/partner/pricing)
+- [Support](https://help.dext.com/en)
+- [Blog](https://dext.com/en/blog)
+- [Trust centre](https://trust.dext.com/)
+- [Terms of service](https://dext.com/en/terms-and-conditions)
+- [Privacy policy](https://dext.com/en/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/receipt-bank-com/](https://apis.io/providers/receipt-bank-com/).
